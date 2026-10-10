@@ -1,5 +1,16 @@
 # Hecke-Lab
 
+
+<p align="center">
+  <img src="assets/hecke-lab-logo.png" alt="Hecke-Lab-logo" width="420">
+</p>
+
+<h1 align="center">Hecke-Lab</h1>
+
+<p align="center">
+  Computational experiments with Hecke algebras, structured moves, symmetry, and AI workflows.
+</p>
+
 **Hecke-Lab** is the executable companion to the short illustrated booklet
 **_Hecke Algebras: How Symmetry Becomes Geometry, Counting, and Operators_**
 by Mirco A. Mannucci and Robin Langer.
