@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/hecke-lab-logo.png" alt="Hecke-Lab-logo" width="420">
+  <img src="assets/Hecke-Lab-logo.png" alt="Hecke-Lab-logo" width="420">
 </p>
 
 <h1 align="center">Hecke-Lab</h1>
